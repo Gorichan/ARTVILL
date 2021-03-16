@@ -1,0 +1,68 @@
+/* @media (max-width: 360px) */
+
+@media (max-width: 988px){
+   
+}
+
+@media (max-width: 768px){
+    
+    
+
+}
+
+@media (max-width: 480px){
+    .title {
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    .footer__nav.d-flex.justify-content-center {
+        flex-wrap: wrap;
+    }
+    .header .header__content h1 {
+        font-size: 21px;
+    }
+    .header .header__content {
+        padding: 20px;
+        width: 350px;
+    }
+    .header .header__content .btn-outline-secondary {
+        padding: 22px 60px;
+    }
+    .build .build__box {
+
+        margin-top: 30px;
+    }
+    .question .footer__sub .header__contact {
+        align-items: center;
+    }
+    .footer__nav.d-flex.justify-content-center {
+        margin: 0 10px;
+    }
+    .form-control {   
+        width: 82%;
+    }
+    .question .question__form .btn-primary {
+        width: 81%;
+    }
+    .build .build__txt {
+        width: 400px;
+    }
+}
+
+
+@media (max-width: 320px){
+    
+
+}
+
+
+
+
+
+
+  
+
+
+  
+  
+
